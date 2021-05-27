@@ -1,0 +1,15 @@
+.foto {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
+.fotopreview {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+}
+.editfotopreview {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+}

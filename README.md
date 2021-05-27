@@ -28,3 +28,15 @@ point penting:
 *untuk info faker lebih lengkapnya bisa kunjungi di https://github.com/fzaninotto/Faker#installation
 
 ===========================================================================
+# Preview Aplikasi
+1. Tampilan hamalan index
+![Capture](https://user-images.githubusercontent.com/23350205/119840688-65f73500-bf2f-11eb-8511-a301e22eed4b.PNG)
+
+2. Tampilan data CRUD
+![Capture2](https://user-images.githubusercontent.com/23350205/119840831-845d3080-bf2f-11eb-8b97-ded6f2c5d4cc.PNG)
+
+3. Tampilan tambah data CRUD
+![Capture3](https://user-images.githubusercontent.com/23350205/119840946-9939c400-bf2f-11eb-8ce3-09f18f555ef6.PNG)
+
+4. Tampilan edit data dengan Modal
+![Capture4](https://user-images.githubusercontent.com/23350205/119841028-ace52a80-bf2f-11eb-8451-4c82b674170d.PNG)

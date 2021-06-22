@@ -5,7 +5,7 @@ Silahkan digunakan dengan gratis, mohon jagan hapus creditnya ini(readme.txt, ma
 
 spesifikasi:
 
-*CRUD ini menggunakan CodeIgniter4, untuk spesifikasi bisa menjalankanya bisa kunjungi dokumentasi nya di https://codeigniter.com/user_guide/index.html
+*CRUD ini menggunakan CodeIgniter4, untuk spesifikasi  menjalankanya bisa kunjungi dokumentasi nya di https://codeigniter.com/user_guide/index.html
 
 *CRUD ini sudah dilengkapi dengan library faker untuk mengetes load jika datanya banyak
 
